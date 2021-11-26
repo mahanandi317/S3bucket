@@ -17,4 +17,4 @@ variable "domain_name" {
   description = "Domain name"
   type        = string
 }
-© 2021 GitHub, Inc.
+
